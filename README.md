@@ -1,6 +1,6 @@
 # Hi 👋, Here's Humen!
 
-I am a software developer. 📪 You can reach me at <humenchau@gmail.com>!
+I am a software developer. 📪 You can reach me at <humenchau@outlook.com>!
 
 ## 💼 Projects
 
