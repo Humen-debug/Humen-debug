@@ -1,6 +1,6 @@
-# Hi 👋, Here's Humen!
+# Hi 👋, Here's Olivia!
 
-I am a software developer. 📪 You can reach me at <humenchau@outlook.com>!
+I am a software developer. 📪 You can reach me at <olivia_chau@outlook.com>!
 
 ## 💼 Projects
 
